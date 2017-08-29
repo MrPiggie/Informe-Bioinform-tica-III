@@ -30,6 +30,6 @@ Mustela putorius furo
 
 # **Parte II: Predicción de genes**
 
-||||
+|hola|fewg|rgeg|
 |:---------:|:---:|:---:|
-|| | |
+|frg|grthrt | |
