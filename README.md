@@ -30,6 +30,6 @@ Mustela putorius furo
 
 # **Parte II: Predicción de genes**
 
-|TAMAÑO PENE|COLOR|ANCHO|
+||||
 |:---------:|:---:|:---:|
-|28 CM| NEGRO| 26|
+|| | |
