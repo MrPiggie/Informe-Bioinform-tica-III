@@ -33,8 +33,11 @@ Mustela putorius furo
 |hola|fewg|rgeg|
 |:---------:|:---:|:---:|
 |frg|grthrt | |
+
 **¿Cuántos ORF o genes encontró ORFfinder?**
+
 ORFfinder encontró 7 ORF.
+
 **Imagen II:**
 
 **¿Cuántos ORF o genes encontró Glimmer?**
