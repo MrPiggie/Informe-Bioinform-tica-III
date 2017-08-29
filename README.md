@@ -1,4 +1,4 @@
-# Informe-Bioinform-tica-III
+# Informe-Bioinformática-III
 Luciano Frez
 
 # **Parte I: El artículo genoma**
