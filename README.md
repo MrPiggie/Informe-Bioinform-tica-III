@@ -4,7 +4,7 @@ Luciano Frez
 # **Parte I: El artículo genoma**
 
 *Ve a la base de datos GOLD y busca un genoma eucarionte de interés.*
-Mustela putorius furo
+Canis lupus familiaris boxer  
 
 **¿Cuántos genomas han sido depositados en GOLD? ¿Son los mismos de GENBANK?**
 
@@ -27,6 +27,8 @@ Mustela putorius furo
 **¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?**
 
 **¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?**
+	
+	Canis lupus familiaris boxer. tiene 39 cromosomas contando el sexual y el tamaño es de 2254.63 Mb.
 
 # **Parte II: Predicción de genes**
 
