@@ -37,7 +37,7 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 **¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?**
 	
-	se uso ARACHNE2 +, PatternHunter, BLASTZ/MULTIZ, RepeatMasker, DateRepeats. 
+	se uso ARACHNE2 +, PatternHunter, BLASTZ/MULTIZ, RepeatMasker, DateRepeats.(1)
 
 **¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?**
 	
@@ -70,3 +70,6 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 *Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder*
 
 Con respecto a los genes entregados por ORFfinder, al usar el BLAST se encontraron 2 genes que no encontro semejanza significativ con la base de datos. Tambien se encontraron genes que poseían un gran puntaje de aliniamiento como bajos puntajes de alineamiento. En el caso de GLIMMER los 10 genes que se analizaron tuvieron una semejanza en la base de datos y el puntaje de alineamiento, en cada gen, fue bastante alta en comparacion a los resultados entregados por ORFfinder.
+
+# **Bibliografía:**
+(1) https://www.nature.com/nature/journal/v438/n7069/full/nature04338.html#Methods 01/09/2017 22:03
