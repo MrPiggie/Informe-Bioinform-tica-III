@@ -25,6 +25,8 @@ Canis lupus familiaris boxer
 **¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?**
 
 **¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?**
+	
+	se uso ARACHNE2 +, PatternHunter, BLASTZ/MULTIZ, RepeatMasker, DateRepeats. 
 
 **¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?**
 	
