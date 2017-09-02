@@ -68,3 +68,5 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 	Glimmer es un sistema para encontrar genes en el ADN microbiano, especialmente los genomas de bacterias, arqueas y virus. Utiliza modelos de Markov interpolados para identificar las regiones de codificación y distinguirlos del ADN no codificante, osea, funciona por homologias.
 
 *Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder*
+
+Con respecto a los genes entregados por ORFfinder, al usar el BLAST se encontraron 2 genes que no encontro semejanza significativ con la base de datos. Tambien se encontraron genes que poseían un gran puntaje de aliniamiento como bajos puntajes de alineamiento. En el caso de GLIMMER los 10 genes que se analizaron tuvieron una semejanza en la base de datos y el puntaje de alineamiento, en cada gen, fue bastante alta en comparacion a los resultados entregados por ORFfinder.
