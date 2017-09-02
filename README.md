@@ -21,9 +21,12 @@ Canis lupus familiaris boxer
 **¿Cuál es el propósito de calcular estas estadísticas?**
 
 **¿Cuál es el genoma que escogiste? Adjunta la referencia.**
+![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/genoma.png?raw=true)
+Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 **¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?**
-
+![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/perro.jpg?raw=true)
+Imagen II: N50 del perro, tanto para al CanFam 1.0 y el 2.0
 **¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?**
 	
 	se uso ARACHNE2 +, PatternHunter, BLASTZ/MULTIZ, RepeatMasker, DateRepeats. 
