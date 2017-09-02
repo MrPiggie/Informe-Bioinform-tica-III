@@ -25,6 +25,7 @@ Canis lupus familiaris boxer
 Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 **¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?**
+
 ![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/perro.jpg?raw=true)
 Imagen II: N50 del perro, tanto para al CanFam 1.0 y el 2.0
 **¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?**
