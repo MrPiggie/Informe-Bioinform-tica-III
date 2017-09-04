@@ -16,9 +16,9 @@ Luciano Frez
 
 **¿Qué es el N50, L50, NG50?**
  
- **N50:** se define como la longitud de secuencia más corta en el 50% del genoma.uede considerarse como el punto de la mitad de la masa de la distribución; El número de bases de todos los contigs más largos que el N50 estará próximo al número de bases de todos los contigs más cortos que el N50.
+ **N50:** Se define como la longitud de secuencia más corta en el 50% del genoma.uede considerarse como el punto de la mitad de la masa de la distribución; El número de bases de todos los contigs más largos que el N50 estará próximo al número de bases de todos los contigs más cortos que el N50.
  
- **L50:** se define como el número más pequeño de contigs cuya suma de longitud produce N50.
+ **L50:** Se define como el número más pequeño de contigs cuya suma de longitud produce N50.
  
  **NG50:** El estadístico NG50 es el mismo que N50 excepto que es 50% del tamaño del genoma conocido o estimado que debe ser de longitud NG50 o más larga
 
@@ -50,7 +50,8 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 	ORFfinder encontró 7 ORF o genes.
 
-**Imagen II:**
+![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/orf%20encontrados.png?raw=true)
+**Imagen II:** ORF o genes encontrados por el programa *ORFfinder*
 
 **¿Cuántos ORF o genes encontró Glimmer?**
 
@@ -72,7 +73,6 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 	Los resultados entregados con respecto a semejanzas encontradas en la base de datos, tanto para ORFfinder y GLIMMER muestran qué: al usar BLAST(ORFfinder)el programa no encontró semejanza significativa para 2 de los genes analizados; en el caso de GLIMMER para los 10 genes analizados se le encontró una semejanza . En referencia a los puntajes de alinemamientos obtenidos(ORFfinder), habían dos grupos, unos con un muy alto puntaje y otros que no **(ver Imagen II)** , para GLIMMER, el puntaje otorgado por este programa para cada gen fue notoriamente más alta en comparacion a los entregados por ORFfinder.
 	
-![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/orf%20encontrados.png?raw=true)
 	
 # **Bibliografía:**
 (1) https://www.nature.com/nature/journal/v438/n7069/full/nature04338.html#Methods 01/09/2017 22:03
