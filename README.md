@@ -28,7 +28,7 @@ Luciano Frez
 
 **¿Cuál es el genoma que escogiste? Adjunta la referencia.**
 ![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/genoma.png?raw=true)
-Imagen I: Genoma escogido *Canis lupus familiaris boxer*
+**Imagen I:** Genoma escogido *Canis lupus familiaris boxer*
 
 **¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?**
 
@@ -51,7 +51,7 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 	ORFfinder encontró 7 ORF o genes.
 
 ![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/orf%20encontrados.png?raw=true)
-**Imagen II:** ORF o genes encontrados por el programa *ORFfinder*
+**Imagen III:** ORF o genes encontrados por el programa *ORFfinder*
 
 **¿Cuántos ORF o genes encontró Glimmer?**
 
@@ -71,7 +71,7 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 *Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder*
 
-	Los resultados entregados con respecto a semejanzas encontradas en la base de datos, tanto para ORFfinder y GLIMMER muestran qué: al usar BLAST(ORFfinder)el programa no encontró semejanza significativa para 2 de los genes analizados; en el caso de GLIMMER para los 10 genes analizados se le encontró una semejanza . En referencia a los puntajes de alinemamientos obtenidos(ORFfinder), habían dos grupos, unos con un muy alto puntaje y otros que no **(ver Imagen II)** , para GLIMMER, el puntaje otorgado por este programa para cada gen fue notoriamente más alta en comparacion a los entregados por ORFfinder.
+	Los resultados entregados con respecto a semejanzas encontradas en la base de datos, tanto para ORFfinder y GLIMMER muestran qué: al usar BLAST(ORFfinder)el programa no encontró semejanza significativa para 2 de los genes analizados; en el caso de GLIMMER para los 10 genes analizados se le encontró una semejanza . En referencia a los puntajes de alinemamientos obtenidos(ORFfinder), habían dos grupos, unos con un muy alto puntaje y otros que no **(ver Imagen III)** , para GLIMMER, el puntaje otorgado por este programa para cada gen fue notoriamente más alta en comparacion a los entregados por ORFfinder.
 	
 	
 # **Bibliografía:**
