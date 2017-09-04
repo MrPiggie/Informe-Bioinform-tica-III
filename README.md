@@ -58,7 +58,7 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 **¿Alguno de los genes predichos por estas herramientas coinciden?**
 	
-	Coinciden con un gen que posee 441 nucleotidos.
+	Coinciden en un gen que posee 441 nucleótidos.
  
  **¿En qué hebra están codificados?**
 	
@@ -74,6 +74,9 @@ Con respecto a los genes entregados por ORFfinder, al usar el BLAST se encontrar
 
 # **Bibliografía:**
 (1) https://www.nature.com/nature/journal/v438/n7069/full/nature04338.html#Methods 01/09/2017 22:03
+
 (2) https://ccb.jhu.edu/software/glimmer/ 04/09/2017 12:37
+
 (3) https://www.ncbi.nlm.nih.gov/pubmed/11927773 04/09/2017 12:37
+
 (4) https://es.wikipedia.org/wiki/Ab_initio 04/09/2017 12:38
