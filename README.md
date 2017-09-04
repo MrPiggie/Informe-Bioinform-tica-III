@@ -67,7 +67,7 @@ Luciano Frez
 
 **¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?**
 
-	Glimmer es un sistema para encontrar genes en el ADN microbiano, especialmente los genomas de bacterias, arqueas y virus. Utiliza modelos de Markov interpolados para identificar las regiones de codificación y distinguirlos del ADN no codificante, osea, funciona por homologias.(2) Este programa usa el sistema *Ab initio*(primeros principios)(3) la cual sólo asume leyes básicas y bien establecidas, excluyendo por ejemplo tablas de parámetros externos o modelos simplificadores.(4)
+	Glimmer es un sistema para encontrar genes en el ADN microbiano, especialmente los genomas de bacterias, arqueas y virus. Utiliza modelos de Markov interpolados para identificar las regiones de codificación y distinguirlos del ADN no codificante, osea, funciona por homologias.(2) 
 
 *Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder*
 
@@ -79,6 +79,3 @@ Luciano Frez
 
 (2) https://ccb.jhu.edu/software/glimmer/ 04/09/2017 12:37
 
-(3) https://www.ncbi.nlm.nih.gov/pubmed/11927773 04/09/2017 12:37
-
-(4) https://es.wikipedia.org/wiki/Ab_initio 04/09/2017 12:38
