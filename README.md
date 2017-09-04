@@ -72,7 +72,7 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 	Los resultados entregados con respecto a semejanzas encontradas en la base de datos, tanto para ORFfinder y GLIMMER muestran qué: al usar BLAST(ORFfinder)el programa no encontró semejanza significativa para 2 de los genes analizados; en el caso de GLIMMER para los 10 genes analizados se le encontró una semejanza . En referencia a los puntajes de alinemamientos obtenidos(ORFfinder), habían dos grupos, unos con un muy alto puntaje y otros que no **(ver Imagen II)** , para GLIMMER, el puntaje otorgado por este programa para cada gen fue notoriamente más alta en comparacion a los entregados por ORFfinder.
 	
-![imagen](
+![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/orf%20encontrados.png?raw=true)
 	
 # **Bibliografía:**
 (1) https://www.nature.com/nature/journal/v438/n7069/full/nature04338.html#Methods 01/09/2017 22:03
