@@ -7,11 +7,12 @@ Luciano Frez
 
 **¿Cuántos genomas han sido depositados en GOLD? ¿Son los mismos de GENBANK?**
 
-	Entre projectos completados e incompletados da una suma de 64754 projectos totales (Complete Projects 11.598 y Incomplete Projects 53.156, respectivamente). GENBANK posee 80.576 genomas
+	Hay un total de 64.754 proyectos de genomas depositados en GOLD, de los cuales 11.598 son de proyectos de genomas completos y 53.156 son incompletos(la mayor proporción de estos es porqué siempre se están actualizando. Se descubren nuevos datos).En el caso de GENBANK, la cantidad de genomas depositados es de 80.576.
+	
 
 **¿Cuál es la distribución de procariontes y eucariontes secuenciados?**
 
-	80.576 procariontes y 18.241 eucariontes.(2)
+	La distribución de procariontes y eucariontes secuenciados es de 80.576(procariontes)/18.241(eucariontes). 
 
 **¿Qué es el N50, L50, NG50?**
  
@@ -23,7 +24,7 @@ Luciano Frez
 
 **¿Cuál es el propósito de calcular estas estadísticas?**
 
-	Este conjunto de estadiscticas ayudan a tener una referencia a las longitudes dentro de un contig y de esta forma ayudar en el ensamblaje del genoma.
+	El propósito de calcular estas estadísticas es para tener una mejor idea del largo de los reads o contig(dependiendo del largo del genoma o fragmento que se quiera ensamblar) ara así generar el ensamblaje del genoma deseado de mejor manera.
 
 **¿Cuál es el genoma que escogiste? Adjunta la referencia.**
 ![imagen](https://github.com/MrPiggie/Informe-Bioinform-tica-III/blob/master/genoma.png?raw=true)
@@ -37,35 +38,35 @@ Imagen I: Genoma escogido *Canis lupus familiaris boxer*
 
 **¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?**
 	
-	se uso ARACHNE2 +, PatternHunter, BLASTZ/MULTIZ, RepeatMasker, DateRepeats.(1)
+	La tecnología que se usopara secuenciar el genoma fue: ARACHNE2 +.(1)
 
 **¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?**
 	
-	Canis lupus familiaris boxer. tiene 39 cromosomas contando el sexual y el tamaño es de 2254.63 Mb.
+	El organismo que escogí fue el *Canis lupus familiaris boxer*, el cual tiene 39 cromosomas(contando el sexual) y el tamaño del genoma corresponde a 2254.63 Mb(Mega bases).
 
 # **Parte II: Predicción de genes**
 
 **¿Cuántos ORF o genes encontró ORFfinder?**
 
-	ORFfinder encontró 7 ORF.
+	ORFfinder encontró 7 ORF o genes.
 
 **Imagen II:**
 
 **¿Cuántos ORF o genes encontró Glimmer?**
 
-	Glimmer encontro 10 ORC.
+	Glimmer encontro 10 ORF o genes.
 
 **¿Alguno de los genes predichos por estas herramientas coinciden?**
 	
-	coinciden con un gen que posee 441 nucleotidos.
+	Coinciden con un gen que posee 441 nucleotidos.
  
  **¿En qué hebra están codificados?**
 	
-		El gen que coincide en ambas herremientas, ORFfinder muestra que esta en la hebra negativa, pero en GLIMMER aparece que es positiva.
+		El gen en común que predijeron ambas herramientas dice que, en el caso de ORFfinder, el gen se encuentra en la hebra negativa. Por el contrario que en GLIMMER, el cual aparece en la hebra positiva.
 
 **¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?**
 
-	Glimmer es un sistema para encontrar genes en el ADN microbiano, especialmente los genomas de bacterias, arqueas y virus. Utiliza modelos de Markov interpolados para identificar las regiones de codificación y distinguirlos del ADN no codificante, osea, funciona por homologias.
+	Glimmer es un sistema para encontrar genes en el ADN microbiano, especialmente los genomas de bacterias, arqueas y virus. Utiliza modelos de Markov interpolados para identificar las regiones de codificación y distinguirlos del ADN no codificante, osea, funciona por homologias.(2) Este programa usa el sistema *Ab initio*(primeros principios)(3) la cual sólo asume leyes básicas y bien establecidas, excluyendo por ejemplo tablas de parámetros externos o modelos simplificadores.(4)
 
 *Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder*
 
@@ -73,3 +74,6 @@ Con respecto a los genes entregados por ORFfinder, al usar el BLAST se encontrar
 
 # **Bibliografía:**
 (1) https://www.nature.com/nature/journal/v438/n7069/full/nature04338.html#Methods 01/09/2017 22:03
+(2) https://ccb.jhu.edu/software/glimmer/ 04/09/2017 12:37
+(3) https://www.ncbi.nlm.nih.gov/pubmed/11927773 04/09/2017 12:37
+(4) https://es.wikipedia.org/wiki/Ab_initio 04/09/2017 12:38
